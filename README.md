@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Привіт! 👋 Я Oleksii</h1>
 
-<!--
-**yvsazh/yvsazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🔧 Розробник Web & AI <br>
+  💡 Цікавлюсь фронтендом, штучним інтелектом і дизайном <br>
+  🧠 Навчаюся та створюю цікаві проєкти
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Мої навички:
+- 💻 HTML, CSS, JavaScript, React, Tailwind
+- 🧠 Python, TensorFlow, PyTorch
+- 🗃️ MongoDB, MySQL
+- 🛠️ Git, Linux, Docker
+
+---
+
+### 📊 GitHub статистика:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OleksiiDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OleksiiDev&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+---
+
+### 📫 Контакти:
+- Telegram: [@oleksii](https://t.me/oleksii)
+- Email: oleksii@example.com
+- Сайт: [oleksiidev.dev](https://oleksiidev.dev)
+
+---
+
+⭐ Не забудь натиснути ⭐ на репозиторії, які тобі подобаються!
