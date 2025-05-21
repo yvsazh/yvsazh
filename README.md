@@ -1,36 +1,56 @@
-<h1 align="center">Привіт! 👋 Я Oleksii</h1>
+<h1 align="center">Привіт! 👋 Я yvsazh</h1>
 
 <p align="center">
-  🔧 Розробник Web & AI <br>
-  💡 Цікавлюсь фронтендом, штучним інтелектом і дизайном <br>
-  🧠 Навчаюся та створюю цікаві проєкти
+  🎮 Unity / Shader Developer • 💻 Люблю C#, ShaderLab та графіку • 🚀 Завжди навчаюсь новому
 </p>
 
 ---
 
-### 🚀 Мої навички:
-- 💻 HTML, CSS, JavaScript, React, Tailwind
-- 🧠 Python, TensorFlow, PyTorch
-- 🗃️ MongoDB, MySQL
-- 🛠️ Git, Linux, Docker
-
----
-
-### 📊 GitHub статистика:
+### 📊 GitHub Статистика:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OleksiiDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yvsazh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OleksiiDev&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yvsazh&theme=tokyonight" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvsazh&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
 
-### 📫 Контакти:
-- Telegram: [@oleksii](https://t.me/oleksii)
-- Email: oleksii@example.com
-- Сайт: [oleksiidev.dev](https://oleksiidev.dev)
+### 🏆 GitHub Трофеї:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yvsazh&theme=tokyonight&row=1&column=7" />
+</p>
 
 ---
 
-⭐ Не забудь натиснути ⭐ на репозиторії, які тобі подобаються!
+### 📲 Соцмережі:
+
+<p align="center">
+  <a href="https://youtube.com/твій_ютуб" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/твій_інстаграм" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@твій_тікток" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://t.me/твій_телеграм" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Основні навички:
+
+- 💬 Мови: **C#**, **ShaderLab**, **HLSL**, **GLSL**
+- 🧩 Движки: **Unity**, **URP**, **Shader Graph**
+- 🧪 Інструменти: **VS Code**, **Git**, **GitHub**, **Rider**
+
+---
+
+⭐ Дякую, що завітав! Залиши ⭐ на проєкти, які тобі сподобались!
