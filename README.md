@@ -9,13 +9,13 @@
 ### 📲 Соцмережі:
 
 <p align="center">
-  <a href="[https://youtube.com/твій_ютуб](https://www.youtube.com/@hackwhizzz/featured)" target="_blank">
+  <a href="[(https://www.youtube.com/@hackwhizzz/featured](https://www.youtube.com/@hackwhizzz/featured)" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/твій_інстаграм](https://www.instagram.com/hackwhizzz/)" target="_blank">
+  <a href="[[https://instagram.com/твій_інстаграм](https://www.instagram.com/hackwhizzz/)](https://www.instagram.com/hackwhizzz/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="[https://tiktok.com/@твій_тікток](https://www.tiktok.com/@hackwhiz)" target="_blank">
+  <a href="[[https://tiktok.com/@твій_тікток](https://www.tiktok.com/@hackwhiz)](https://www.tiktok.com/@hackwhiz)" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://t.me/@chE_pUhaaa" target="_blank">
